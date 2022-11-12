@@ -1,0 +1,21 @@
+.main {
+  text-align: center;
+}
+.main-span {
+  padding-top: 100px;
+  padding-bottom: 25px;
+}
+.main-h1 {
+  padding-bottom: 35px;
+  letter-spacing: -0.02em;
+}
+@media (max-width: 600px) {
+  .main-span {
+    padding-top: 50px;
+  }
+}
+@media (max-width: 400px) {
+  .main-h1 {
+    font-size: 2.5rem;
+  }
+}
