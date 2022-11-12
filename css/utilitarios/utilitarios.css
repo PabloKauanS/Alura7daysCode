@@ -1,0 +1,8 @@
+.flex-item-header {
+  display: flex;
+  align-items: center;
+}
+.alinhamento {
+  max-width: 1400px;
+  margin: 0 auto;
+}

@@ -1,0 +1,27 @@
+.md-medium {
+  font: 500 1rem/1.5 "Inter", sans-serif;
+}
+.md-semibold {
+  font: 600 1rem/1.5 "Inter", sans-serif;
+}
+.md-normal {
+  font: 400 1rem/1.5 "Inter", sans-serif;
+}
+.lg-semibold {
+  font: 600 3rem/1.25 "Inter", sans-serif;
+}
+.lg-medium {
+  font: 500 1.125rem/1.56 "Inter", sans-serif;
+}
+.xl-normal {
+  font: 400 1.25rem/1.5 "Inter", sans-serif;
+}
+.xl-semibold {
+  font: 600 3.75rem/1.2 "Inter", sans-serif;
+}
+.xl-medium {
+  font: 500 1.25rem/1.5 "Inter", sans-serif;
+}
+.sm-medium {
+  font: 500 0.875rem/1.43 "Inter", sans-serif;
+}
