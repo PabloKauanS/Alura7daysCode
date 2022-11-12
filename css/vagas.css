@@ -1,0 +1,23 @@
+.vagas {
+  text-align: center;
+  padding-top: 100px;
+}
+.vagas span {
+  background-color: var(--cor-p);
+  display: inline-block;
+  background: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 4px 12px;
+  margin-bottom: 20px;
+}
+.vagas h2 {
+  font-size: 2.25rem;
+  margin-bottom: 20px;
+}
+.vagas p {
+  margin-bottom: 64px;
+}
+.vagas-img-div img {
+  height: 100%;
+  width: 100%;
+}
