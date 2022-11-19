@@ -1,0 +1,17 @@
+.descricao {
+  padding-top: 64px;
+  margin: 0 auto;
+  max-width: 700px;
+}
+.descricao-caixas {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 24px;
+  border: 1px solid var(--cor-bordas);
+  margin-top: 32px;
+  margin-bottom: 24px;
+  padding: 24px;
+}
+.descricao-caixas h3 {
+  grid-column: 1/-1;
+}
