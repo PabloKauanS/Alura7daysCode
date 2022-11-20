@@ -12,13 +12,13 @@
 }
 .review span,
 .review img {
-  padding-bottom: 12px;
+  padding-bottom: 10px;
 }
 .review p {
   padding-bottom: 28px;
 }
 @media (max-width: 600px) {
   .review p {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
