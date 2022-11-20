@@ -1,5 +1,5 @@
 .review-bg {
-  padding-top: 96px;
+  margin-top: 96px;
 }
 .review {
   display: grid;
@@ -12,12 +12,15 @@
 }
 .review span,
 .review img {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 .review p {
-  padding-bottom: 28px;
+  margin-bottom: 28px;
 }
 @media (max-width: 600px) {
+  .review-bg{
+    margin-top: 48px;
+  }
   .review p {
     font-size: 1.5rem;
   }

@@ -1,6 +1,6 @@
 .descricao {
-  padding-top: 64px;
   margin: 0 auto;
+  margin-top: 64px;
   max-width: 700px;
 }
 .descricao-caixas {
@@ -15,4 +15,9 @@
 }
 .descricao-caixas h3 {
   grid-column: 1/-1;
+}
+@media (max-width: 600px){
+  .descricao{
+    margin-top: 32px;
+  }
 }

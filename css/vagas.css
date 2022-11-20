@@ -1,6 +1,6 @@
 .vagas {
   text-align: center;
-  padding-top: 100px;
+  margin-top: 100px;
 }
 .vagas span {
   background-color: var(--cor-p);
@@ -20,4 +20,12 @@
 .vagas-img-div img {
   height: 100%;
   width: 100%;
+}
+@media (max-width: 600px){
+  .vagas {
+    margin-top: 40px;
+  }
+  .vagas p {
+    margin-bottom: 32px;
+  }
 }

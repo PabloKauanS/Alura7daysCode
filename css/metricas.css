@@ -1,6 +1,6 @@
 .metricas {
   display: flex;
-  padding-top: 100px;
+  margin-top: 100px;
   justify-content: space-between;
   flex-wrap: wrap;
 }
@@ -8,10 +8,10 @@
   width: 35ch;
 }
 .metricas-caixa span {
-  padding-bottom: 12px;
+  margin-bottom: 12px;
 }
 .metricas-caixa h2 {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 @media (max-width: 1200px) {
   .metricas {
@@ -22,11 +22,11 @@
 @media (max-width: 900px) {
   .metricas {
     text-align: center;
-    padding-top: 50px;
+    margin-top: 50px;
   }
 }
 @media (max-width: 500px) {
   .metricas {
-    padding-top: 25px;
+    margin-top: 25px;
   }
 }
