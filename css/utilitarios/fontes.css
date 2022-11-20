@@ -1,27 +1,39 @@
-.md-medium {
+.tx-md-medium {
   font: 500 1rem/1.5 "Inter", sans-serif;
 }
-.md-semibold {
+.display-md-medium {
+  font: 500 2.25rem/1.5 "Inter", sans-serif;
+}
+.display-md-semibold {
+  font: 600 2.25rem/1.22 "Inter", sans-serif;
+}
+.tx-md-semibold {
   font: 600 1rem/1.5 "Inter", sans-serif;
 }
-.md-normal {
+.tx-md-normal {
   font: 400 1rem/1.5 "Inter", sans-serif;
 }
-.lg-semibold {
+.display-lg-semibold {
   font: 600 3rem/1.25 "Inter", sans-serif;
 }
-.lg-medium {
+.tx-lg-medium {
   font: 500 1.125rem/1.56 "Inter", sans-serif;
 }
-.xl-normal {
+.tx-xl-normal {
   font: 400 1.25rem/1.5 "Inter", sans-serif;
 }
-.xl-semibold {
+.display-xl-semibold {
   font: 600 3.75rem/1.2 "Inter", sans-serif;
 }
-.xl-medium {
+.tx-xl-medium {
   font: 500 1.25rem/1.5 "Inter", sans-serif;
 }
-.sm-medium {
+.tx-sm-medium {
   font: 500 0.875rem/1.43 "Inter", sans-serif;
+}
+.tx-sm-semibold {
+  font: 600 0.875rem/1.43 "Inter", sans-serif;
+}
+.tx-sm-normal {
+  font: 400 0.875rem/1.43 "Inter", sans-serif;
 }

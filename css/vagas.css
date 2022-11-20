@@ -17,3 +17,7 @@
 .vagas p {
   margin-bottom: 64px;
 }
+.vagas-img-div img {
+  height: 100%;
+  width: 100%;
+}

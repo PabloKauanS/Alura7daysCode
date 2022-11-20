@@ -9,6 +9,7 @@
   gap: 24px;
   border: 1px solid var(--cor-bordas);
   margin-top: 32px;
+  border-radius: 16px;
   margin-bottom: 24px;
   padding: 24px;
 }
